@@ -1,1 +1,2 @@
 # Week1
+In this project, I refactor certain syntax element to fix and flow better through the coding process. I also change the html syntaxes to be more webb acessible for people with disabilities by adding alt tags. 
